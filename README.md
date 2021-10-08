@@ -3,7 +3,6 @@ Emacs-Like IDE For Inveterate Vim-users Everywhere.
 
  
 🚧 Obviously, this site   🚧
-
 🚧 is under construction. 🚧
 
 Until I get something working, you can study potential commands here:
