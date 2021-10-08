@@ -6,3 +6,6 @@ Emacs-Like IDE For Inveterate Vim-users Everywhere.
 
 Until I get something working, you can study potential commands here:
 https://app.memrise.com/user/Mechachleopteryx/courses/teaching/
+
+
+⦾ Zero Rights Reserved
