@@ -1,5 +1,6 @@
 # ELI5
-Emacs-Like IDE For Inveterate Vim-users Everywhere.
+
+Explain it to me Like I'm 5 years old.
 
  
 🚧 Obviously, this site   🚧
